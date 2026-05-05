@@ -253,8 +253,18 @@ It helped me understand how different modules like **stock, sales, purchases, an
 
 ## Repository
 
-👉 [https://github.com/Usaid136/flour-mill-system-php](https://github.com/Usaid136/flour-mill-system-php)
+[https://github.com/Usaid136/flour-mill-system-php](https://github.com/Usaid136/flour-mill-system-php)
 
 ---
+
+⭐ If this project helped you or you found it useful, please consider starring the repository.
+
+---
+
+## Author
+
+**Muhammad Usaid**  
+- GitHub: https://github.com/Usaid136  
+- LinkedIn: https://www.linkedin.com/in/m-usaid-saddiq-110500320/
 
 
